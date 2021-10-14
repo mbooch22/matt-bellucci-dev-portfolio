@@ -62,10 +62,10 @@
         "startDate": "2017-2018",
         "description": "As part Villanova University's Senior Design Project for Engineers, my team of 3 designed and implemented a reservation system to automate reservations made through a website and dipslay the relevant information (If the current time was booked and by who, An option to reserve the current time, Calendar/Schedule for the day) on LED Displays. Using the Google Calendar API, the reservation information was fetched from raspberry pi's every 5 minutes using NodeJS and displayed using React.",
         "images": [
-          "images/mdl1.jpg",
-          "images/mdl3.jpg",
-          "images/mdl4.jpg",
-          "images/mdl5.jpg",
+          "images/mdl1.jpeg",
+          "images/mdl3.jpeg",
+          "images/mdl4.jpeg",
+          "images/mdl5.jpeg",
           "images/MDLRes.mp4"
         ],
         "url": "",
