@@ -1,0 +1,177 @@
+{
+    "basic_info": {
+      "name": "Matt Bellucci",
+      "titles": [ "Software Engineer" ],
+      "social": [
+        {
+          "name": "github",
+          "url": "https://github.com/mbooch22",
+          "pdf": false,
+          "class": "fab fa-github"
+        },
+        {
+          "name": "linkedIn",
+          "url": "https://www.linkedin.com/in/matthew-bellucci-775317a8/",
+          "pdf": false,
+          "class": "fab fa-linkedin"
+        },
+        {
+          "name": "mail",
+          "url": "",
+          "pdf": false,
+          "class": "fas fa-envelope"
+        },
+        {
+          "name": "resume",
+          "url": "../../MattBellucciResume.pdf",
+          "pdf": true,
+          "class": "fas fa-file-user"
+        }
+      ],
+      "image": "myProfile.jpg"
+    },
+    "skills": {
+      "icons": [
+        {
+          "name": "Java",
+          "class": "devicon-java-plain",
+          "level": "95"
+        },
+        {
+          "name": "Python",
+          "class": "devicon-python-plain",
+          "level": "95"
+        },
+        {
+          "name": "Jupyter",
+          "class": "devicon-jupyter-plain-wordmark",
+          "level": "95"
+        },
+        {
+          "name": "Arduino",
+          "class": "devicon-arduino-plain-wordmark",
+          "level": "95"
+        },
+        {
+          "name": "MUI",
+          "class": "devicon-materialui-plain",
+          "level": "95"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain",
+          "level": "95"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain",
+          "level": "95"
+        },
+        {
+          "name": "NodeJS",
+          "class": "devicon-nodejs-plain-wordmark",
+          "level": "80"
+        },
+        {
+          "name": "Handlebars",
+          "class": "devicon-handlebars-plain",
+          "level": "90"
+        },
+        {
+          "name": "JavaScript",
+          "class": "devicon-javascript-plain",
+          "level": "70"
+        },
+        {
+          "name": "AWS",
+          "class": "devicon-amazonwebservices-original",
+          "level": "75"
+        },
+        {
+          "name": "Bootstrap",
+          "class": "devicon-bootstrap-plain",
+          "level": "85"
+        },
+        {
+          "name": "Android",
+          "class": "devicon-android-plain-wordmark",
+          "level": "65"
+        },
+        {
+          "name": "MySql",
+          "class": "devicon-mysql-plain",
+          "level": "60"
+        },        
+        {
+          "name": "D3JS",
+          "class": "devicon-d3js-plain",
+          "level": "75"
+        },
+        {
+          "name": "Docker",
+          "class": "devicon-docker-plain",
+          "level": "85"
+        },
+        {
+          "name": ".Net",
+          "class": "devicon-dotnetcore-plain",
+          "level": "65"
+        },
+        {
+          "name": "Google Cloud",
+          "class": "devicon-googlecloud-plain-wordmark",
+          "level": "60"
+        },        
+        {
+          "name": "Groovy",
+          "class": "devicon-groovy-plain",
+          "level": "75"
+        },
+        {
+          "name": "Jenkins",
+          "class": "devicon-jenkins-line",
+          "level": "85"
+        },
+        {
+          "name": "jQuery",
+          "class": "devicon-jquery-plain-wordmark",
+          "level": "65"
+        },
+        {
+          "name": "KnockoutJS",
+          "class": "devicon-knockout-plain-wordmark",
+          "level": "60"
+        },
+        {
+          "name": "Kubernetes",
+          "class": "devicon-kubernetes-plain",
+          "level": "85"
+        },
+        {
+          "name": "NPM",
+          "class": "devicon-npm-original-wordmark",
+          "level": "65"
+        },
+        {
+          "name": "Putty",
+          "class": "devicon-putty-plain",
+          "level": "60"
+        },
+        {
+          "name": "Raspberry Pi",
+          "class": "devicon-raspberrypi-line",
+          "level": "85"
+        },
+        {
+          "name": "React",
+          "class": "devicon-react-original",
+          "level": "65"
+        },
+        {
+          "name": "Swift",
+          "class": "devicon-swift-plain",
+          "level": "60"
+        }
+      ]
+    }
+  }
