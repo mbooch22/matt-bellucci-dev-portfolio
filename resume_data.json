@@ -58,37 +58,9 @@
         ]
       },
       {
-        "title": "Senior Design Project",
-        "startDate": "2017-2018",
-        "description": "As part Villanova University's Senior Design Project for Engineers, my team of 3 designed and implemented a reservation system to automate reservations made through a website and dipslay the relevant information (If the current time was booked and by who, An option to reserve the current time, Calendar/Schedule for the day) on LED Displays. Using the Google Calendar API, the reservation information was fetched from raspberry pi's every 5 minutes using NodeJS and displayed using React.",
-        "images": [
-          "images/mdl1.jpeg",
-          "images/mdl3.jpeg",
-          "images/mdl4.jpeg",
-          "images/mdl5.jpeg",
-          "images/MDLRes.mp4"
-        ],
-        "url": "",
-        "tooltip": "Only pictures/video I had left from Project. No central repo was used so code is left on the school computer.",
-        "technologies": [
-          {
-            "class": "devicon-react-plain",
-            "name": "React"
-          },
-          {
-            "class": "devicon-nodejs-plain",
-            "name": "NodeJS"
-          },
-          {
-            "class": "devicon-google-plain",
-            "name": "Google Cloud"
-          }
-        ]
-      },
-      {
         "title": "3D Printing - Crypto",
         "startDate": "2020-Present",
-        "description": "Personal Project/Hobby designing 3D objects in AutoCAD to be printed on my 3D Printer. One such project was printing a display box for an ardunio to display the latest Crypto Currency Prices after being fetched from an API. Used Raspberry Pi and Octoprint software to set up wireless printing as well as video monitoring remotely.",
+        "description": "Personal Project/Hobby designing 3D objects in AutoCAD to be printed on my 3D Printer. One such project was printing a display box for an Arduino to display the latest Crypto Currency Prices after being fetched from an API. Used Raspberry Pi and Octoprint software to set up wireless printing as well as video monitoring remotely.",
         "images": [
           "images/Crypto.jpeg",
           "images/birdHouse.mp4"
@@ -109,7 +81,7 @@
       {
         "title": "NBA Machine Learning Model",
         "startDate": "2020-Present",
-        "description": "Personal Project - Using NBA statistics over the course of the last decade, a Machine Learning model was trained using AWS Amazon Sagemaker in order to predict statistics for future games. Using a separate proprietary web scraping web app, NBA stats over the past decade were retreieved for every game played. After retrieving and configuring all the advanced statistics from the Web Scraping app, the data was used to train a Machine Learning Model on AWS Amazon Sagemaker. The predictions of the Model are used against the corresponding Vegas Odds. Various thresholds are used to determine the optimal chances of the model being more accurate than Sportsbooks.",
+        "description": "Personal Project - Using NBA statistics over the course of the last decade, a Machine Learning model was trained using AWS Amazon Sagemaker in order to predict statistics for future games. Using a separate proprietary web scraping web app, NBA stats over the past decade were retrieved for every game played. After retrieving and configuring all the advanced statistics from the Web Scraping app, the data was used to train a Machine Learning Model on AWS Amazon Sagemaker. The predictions of the Model are used against the corresponding Vegas Odds. Various thresholds are used to determine the optimal chances of the model being more accurate than Sportsbooks.",
         "images": [
           "images/NBA_AppHome.png",
           "images/ReactWebScrape.png",
@@ -138,6 +110,34 @@
           {
             "class": "devicon-d3js-plain colored",
             "name": ""
+          }
+        ]
+      },
+      {
+        "title": "Senior Design Project",
+        "startDate": "2017-2018",
+        "description": "As part Villanova University's Senior Design Project for Engineers, my team of 3 designed and implemented a reservation system to automate reservations made through a website and display the relevant information (If the current time was booked and by who, An option to reserve the current time, Calendar/Schedule for the day) on LED Displays. Using the Google Calendar API, the reservation information was fetched from raspberry pi's every 5 minutes using NodeJS and displayed using React.",
+        "images": [
+          "images/mdl1.jpeg",
+          "images/mdl3.jpeg",
+          "images/mdl4.jpeg",
+          "images/mdl5.jpeg",
+          "images/MDLRes.mp4"
+        ],
+        "url": "",
+        "tooltip": "Only pictures/video I had left from Project. No central repo was used so code is left on the school computer.",
+        "technologies": [
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-google-plain",
+            "name": "Google Cloud"
           }
         ]
       }
