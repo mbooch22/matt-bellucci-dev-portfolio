@@ -58,27 +58,6 @@
         ]
       },
       {
-        "title": "3D Printing - Crypto",
-        "startDate": "2020-Present",
-        "description": "Personal Project/Hobby designing 3D objects in AutoCAD to be printed on my 3D Printer. One such project was printing a display box for an Arduino to display the latest Crypto Currency Prices after being fetched from an API. Used Raspberry Pi and Octoprint software to set up wireless printing as well as video monitoring remotely.",
-        "images": [
-          "images/Crypto.jpeg",
-          "images/birdHouse.mp4"
-        ],
-        "url": "https://github.com/mbooch22/CryptoDisplay",
-        "tooltip": "",
-        "technologies": [
-          {
-            "class": "devicon-arduino-plain colored",
-            "name": "Arduino"
-          },
-          {
-            "class": "devicon-raspberrypi-line colored",
-            "name": "Raspberry Pi"
-          }
-        ]
-      },
-      {
         "title": "NBA Machine Learning Model",
         "startDate": "2020-Present",
         "description": "Personal Project - Using NBA statistics over the course of the last decade, a Machine Learning model was trained using AWS Amazon Sagemaker in order to predict statistics for future games. Using a separate proprietary web scraping web app, NBA stats over the past decade were retrieved for every game played. After retrieving and configuring all the advanced statistics from the Web Scraping app, the data was used to train a Machine Learning Model on AWS Amazon Sagemaker. The predictions of the Model are used against the corresponding Vegas Odds. Various thresholds are used to determine the optimal chances of the model being more accurate than Sportsbooks.",
@@ -110,6 +89,27 @@
           {
             "class": "devicon-d3js-plain colored",
             "name": ""
+          }
+        ]
+      },
+      {
+        "title": "3D Printing - Crypto",
+        "startDate": "2020-Present",
+        "description": "Personal Project/Hobby designing 3D objects in AutoCAD to be printed on my 3D Printer. One such project was printing a display box for an Arduino to display the latest Crypto Currency Prices after being fetched from an API. Used Raspberry Pi and Octoprint software to set up wireless printing as well as video monitoring remotely.",
+        "images": [
+          "images/Crypto.jpeg",
+          "images/birdHouse.mp4"
+        ],
+        "url": "https://github.com/mbooch22/CryptoDisplay",
+        "tooltip": "",
+        "technologies": [
+          {
+            "class": "devicon-arduino-plain colored",
+            "name": "Arduino"
+          },
+          {
+            "class": "devicon-raspberrypi-line colored",
+            "name": "Raspberry Pi"
           }
         ]
       },
