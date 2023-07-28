@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "./static/css/main.a4904e21.chunk.css",
-    "main.js": "./static/js/main.199bab1a.chunk.js",
-    "main.js.map": "./static/js/main.199bab1a.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.3375ca03.js",
-    "runtime-main.js.map": "./static/js/runtime-main.3375ca03.js.map",
-    "static/css/2.dfb7c7bb.chunk.css": "./static/css/2.dfb7c7bb.chunk.css",
-    "static/js/2.e01fe609.chunk.js": "./static/js/2.e01fe609.chunk.js",
-    "static/js/2.e01fe609.chunk.js.map": "./static/js/2.e01fe609.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.ea64bbce6f26f37b08900dabf391c99d.js": "./precache-manifest.ea64bbce6f26f37b08900dabf391c99d.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/2.dfb7c7bb.chunk.css.map": "./static/css/2.dfb7c7bb.chunk.css.map",
-    "static/css/main.a4904e21.chunk.css.map": "./static/css/main.a4904e21.chunk.css.map",
-    "static/js/2.e01fe609.chunk.js.LICENSE.txt": "./static/js/2.e01fe609.chunk.js.LICENSE.txt",
-    "static/media/MattBellucciResume.docx.pdf": "./static/media/MattBellucciResume.docx.ce672761.pdf",
-    "static/media/logo.svg": "./static/media/logo.06e73328.svg"
+    "main.css": "/matt-bellucci-dev-portfolio/static/css/main.6018469d.chunk.css",
+    "main.js": "/matt-bellucci-dev-portfolio/static/js/main.57bd7d64.chunk.js",
+    "main.js.map": "/matt-bellucci-dev-portfolio/static/js/main.57bd7d64.chunk.js.map",
+    "runtime-main.js": "/matt-bellucci-dev-portfolio/static/js/runtime-main.1df516bb.js",
+    "runtime-main.js.map": "/matt-bellucci-dev-portfolio/static/js/runtime-main.1df516bb.js.map",
+    "static/css/2.3eb2a443.chunk.css": "/matt-bellucci-dev-portfolio/static/css/2.3eb2a443.chunk.css",
+    "static/js/2.4ff76bb2.chunk.js": "/matt-bellucci-dev-portfolio/static/js/2.4ff76bb2.chunk.js",
+    "static/js/2.4ff76bb2.chunk.js.map": "/matt-bellucci-dev-portfolio/static/js/2.4ff76bb2.chunk.js.map",
+    "index.html": "/matt-bellucci-dev-portfolio/index.html",
+    "precache-manifest.2c67d62e87b406c34f044bd0ee941957.js": "/matt-bellucci-dev-portfolio/precache-manifest.2c67d62e87b406c34f044bd0ee941957.js",
+    "service-worker.js": "/matt-bellucci-dev-portfolio/service-worker.js",
+    "static/css/2.3eb2a443.chunk.css.map": "/matt-bellucci-dev-portfolio/static/css/2.3eb2a443.chunk.css.map",
+    "static/css/main.6018469d.chunk.css.map": "/matt-bellucci-dev-portfolio/static/css/main.6018469d.chunk.css.map",
+    "static/js/2.4ff76bb2.chunk.js.LICENSE.txt": "/matt-bellucci-dev-portfolio/static/js/2.4ff76bb2.chunk.js.LICENSE.txt",
+    "static/media/MattBellucciResume.docx.pdf": "/matt-bellucci-dev-portfolio/static/media/MattBellucciResume.docx.ce672761.pdf",
+    "static/media/logo.svg": "/matt-bellucci-dev-portfolio/static/media/logo.06e73328.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3375ca03.js",
-    "static/css/2.dfb7c7bb.chunk.css",
-    "static/js/2.e01fe609.chunk.js",
-    "static/css/main.a4904e21.chunk.css",
-    "static/js/main.199bab1a.chunk.js"
+    "static/js/runtime-main.1df516bb.js",
+    "static/css/2.3eb2a443.chunk.css",
+    "static/js/2.4ff76bb2.chunk.js",
+    "static/css/main.6018469d.chunk.css",
+    "static/js/main.57bd7d64.chunk.js"
   ]
 }
