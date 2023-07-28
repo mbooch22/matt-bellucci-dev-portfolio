@@ -33,6 +33,39 @@
         ]
       },
       {
+        "title": "NBA Machine Learning Model V2",
+        "startDate": "2022-Present",
+        "description": "Personal Project - Using NBA statistics over the course of the last decade, a Machine Learning model was trained using AWS Amazon Sagemaker in order to predict statistics for future games. Using a separate proprietary web scraping web app, NBA stats over the past decade were retreieved for every game played. After retrieving and configuring all the advanced statistics from the Web Scraping app, the data was used to train a Machine Learning Model on AWS Amazon Sagemaker. The predictions of the Model are used against the corresponding Vegas Odds. Various thresholds are used to determine the optimal chances of the model being more accurate than Sportsbooks.",
+        "images": [
+          "images/D3Home.png",
+          "images/D3Info.png",
+          "images/D3Sort.png",
+          "images/D3Chart1.png",
+          "images/D3Chart2.png",
+          "images/D3TeamPage.png"
+        ],
+        "url": "https://mbooch22.github.io/nba-machine-learning-viz/",
+        "tooltip": "",
+        "technologies": [
+          {
+            "class": "devicon-amazonwebservices-plain-wordmark colored",
+            "name": ""
+          },
+          {
+            "class": "devicon-react-original-wordmark colored",
+            "name": ""
+          },
+          {
+            "class": "devicon-html5-plain-wordmark",
+            "name": ""
+          },
+          {
+            "class": "devicon-d3js-plain colored",
+            "name": ""
+          }
+        ]
+      },
+      {
         "title": "SAP - AESAP",
         "startDate": "2018-Present",
         "description": "Lead Solution Architect and Sole Owner for this SAP Innovation Project. Designed, Developed and delivered a strict Go-Live for a native iOS app, as a sales tool for over 1,000 account executives/users. Using SAP's Cloud Platform HANA as a DB, a Java persistence API was built to be consumed by both an SAPUI5(XML/Javascript MVC Framework) application (for Key Users to edit KPI Data) and an iOS application for the End Users.",
@@ -108,7 +141,7 @@
       },
       {
         "title": "NBA Machine Learning Model",
-        "startDate": "2020-Present",
+        "startDate": "2020-2022",
         "description": "Personal Project - Using NBA statistics over the course of the last decade, a Machine Learning model was trained using AWS Amazon Sagemaker in order to predict statistics for future games. Using a separate proprietary web scraping web app, NBA stats over the past decade were retreieved for every game played. After retrieving and configuring all the advanced statistics from the Web Scraping app, the data was used to train a Machine Learning Model on AWS Amazon Sagemaker. The predictions of the Model are used against the corresponding Vegas Odds. Various thresholds are used to determine the optimal chances of the model being more accurate than Sportsbooks.",
         "images": [
           "images/NBA_AppHome.png",
