@@ -2,7 +2,7 @@ import React, { Component } from "react";
 import EmailPopover from "./EmailPopover";
 import SkillsButton from "./SkillsButton";
 import Skills from "./Skills";
-import Resume from '../MattBellucciResume.docx.pdf';
+import Resume from '../MatthewBellucciResume2023.pdf';
 
 class Footer extends Component {
   constructor(props) {
@@ -34,7 +34,7 @@ class Footer extends Component {
             {network.url ? (
               [
                 network.pdf ? (
-                  <a href={require('../MattBellucciResume.docx.pdf')} target="_blank" without rel="noopener noreferrer">
+                  <a href={require('../MatthewBellucciResume2023.pdf')} target="_blank" without rel="noopener noreferrer">
                     <i className={network.class}></i>
                   </a>) :
                   (
