@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "35984cb4d90bbfd66bdeca4fbe4732e7",
+    "revision": "bf0ffd270043a960f01302610c8ab7d4",
     "url": "/matt-bellucci-dev-portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matt-bellucci-dev-portfolio/static/css/2.3eb2a443.chunk.css"
   },
   {
-    "revision": "76fe789d8452aec24cf3",
+    "revision": "0f83f79fd1a15d7789dc",
     "url": "/matt-bellucci-dev-portfolio/static/css/main.6018469d.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/matt-bellucci-dev-portfolio/static/js/2.4ff76bb2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "76fe789d8452aec24cf3",
-    "url": "/matt-bellucci-dev-portfolio/static/js/main.57bd7d64.chunk.js"
+    "revision": "0f83f79fd1a15d7789dc",
+    "url": "/matt-bellucci-dev-portfolio/static/js/main.306c15be.chunk.js"
   },
   {
     "revision": "34125bec554be3423db1",
     "url": "/matt-bellucci-dev-portfolio/static/js/runtime-main.1df516bb.js"
   },
   {
-    "revision": "ce672761986044bff4ed21ba0b2604a9",
-    "url": "/matt-bellucci-dev-portfolio/static/media/MattBellucciResume.docx.ce672761.pdf"
+    "revision": "d68388576df3079ba64b06b113f56de2",
+    "url": "/matt-bellucci-dev-portfolio/static/media/MatthewBellucciResume2023.d6838857.pdf"
   },
   {
     "revision": "06e733283fa43d1dd57738cfc409adbd",
