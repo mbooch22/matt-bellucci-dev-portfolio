@@ -66,6 +66,38 @@
         ]
       },
       {
+        "title": "Pytorch AI - Pet Celebrity Lookalike",
+        "startDate": "2023",
+        "description": "Personal Project - Find your pet's celebrity look-alike! This web application allows users to upload pictures of their pets and discover which celebrities their pets resemble the most. Users can upload pictures of their pets through the user-friendly interface. The application uses a pre-trained machine learning model to compare the features of user-uploaded pet images with features extracted from pictures of celebrities.The application displays the top celebrity look-alikes for the uploaded pet image along with a similarity score. Users can scroll or click through different celebrity look-alike suggestions. Technologies Used: Frontend=React;Backend=Node.js, Express, Python; Machine Learning Model= PyTorch/ResNet18, trained on a dataset of 18,000 pet & celebrity images. Also see backend repo: https://github.com/mbooch22/pet-celebrity-lookalike-backend",
+        "images": [
+          "images/PetLookAlikeDemo2.mp4"
+        ],
+        "url": "https://github.com/mbooch22/pet-celebrity-lookalike/",
+        "tooltip": "",
+        "technologies": [
+          {
+            "class": "devicon-amazonwebservices-plain-wordmark colored",
+            "name": ""
+          },
+          {
+            "class": "devicon-python-plain",
+            "name": "Python"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "NodeJS"
+          },
+          {
+            "class": "devicon-pytorch-plain-wordmark colored",
+            "name": ""
+          }
+        ]
+      },
+      {
         "title": "SAP - AESAP",
         "startDate": "2018-Present",
         "description": "Lead Solution Architect and Sole Owner for this SAP Innovation Project. Designed, Developed and delivered a strict Go-Live for a native iOS app, as a sales tool for over 1,000 account executives/users. Using SAP's Cloud Platform HANA as a DB, a Java persistence API was built to be consumed by both an SAPUI5(XML/Javascript MVC Framework) application (for Key Users to edit KPI Data) and an iOS application for the End Users.",
