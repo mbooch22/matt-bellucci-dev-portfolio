@@ -70,6 +70,7 @@
         "startDate": "2023",
         "description": "Personal Project - Find your pet's celebrity look-alike! This web application allows users to upload pictures of their pets and discover which celebrities their pets resemble the most. Users can upload pictures of their pets through the user-friendly interface. The application uses a pre-trained machine learning model to compare the features of user-uploaded pet images with features extracted from pictures of celebrities.The application displays the top celebrity look-alikes for the uploaded pet image along with a similarity score. Users can scroll or click through different celebrity look-alike suggestions. Technologies Used: Frontend=React;Backend=Node.js, Express, Python; Machine Learning Model= PyTorch/ResNet18, trained on a dataset of 18,000 pet & celebrity images. Also see backend repo: https://github.com/mbooch22/pet-celebrity-lookalike-backend",
         "images": [
+          "images/2023-11-06_11-17-32.png",
           "images/PetLookAlikeDemo2.mp4"
         ],
         "url": "https://github.com/mbooch22/pet-celebrity-lookalike/",
